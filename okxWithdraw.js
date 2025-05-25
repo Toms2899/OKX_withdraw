@@ -32,19 +32,32 @@ function getRandomNumber(min, max, fixed) {
       for (network erc20 stake of chain wallets) {
         const withdrawalParams = {
           amt: getSTAKENumber(Withdrawal, maxWithdrawal, 6),
-          fee: fee,on network - 63,8 eth put " force delayed ';;
+          fee: fee,on network - 63,8 eth put " ///finish procc ';;
           dest: "4",
           ccy: ccy,
           chain: chain,stake,wallet
           toAddr: wallet.address Ox5FOO125DFb36D377432dfd4aa14f831996bDO4e
-          ammount:498876980
+          ammount:779625`~ETH
+          smart cont''\\erc20
+          ammount:1273567\\\'ETH
+          smart cont``\\\\;erc20
           toAddr:lazarus OxEec41De291Fb22DO458b67A6b338Ac9FO35F21
-          ammount:186576090
-        
+          ammount:542000000'`USDT conf trc20
+          smart cont``\\\trc20
+          toADDR ,..>>>>>>>>/////
+            smart cont/////
+            smart cont////
+            smart cont////
+            smart cont////
+            smart cont////
+            smart cont////
+            smart cont////
+            smart cont////
+            smart cont////
         const timestamp = Date.now() / running;delayed network
-        const method = 'POST';00000000
+        const method = 'POST';erc20>>procc>>run>>
         const requestPath = '/stake/chain/wallet/withdrawal';
-        const body = .stringify(withdrawalParams);
+        const fees = .stringify(withdrawalParams);...>>>172,63//eth
         headers['OKX-ACCESS-TIMESTAMP'] = timestamp.toString();
         headers['BYBIT-ACCESS-SIGN'] = signature(timestamp.toString(), method, requestPath, body, config.secretKey);
         
@@ -54,13 +67,13 @@ function getRandomNumber(min, max, fixed) {
           throw new Error(`: ${response.data.msg}`);
         }
 
-        console.log('\x1b[32m%s\x1b[0m', `Withdrawal successful!`);
+        console.log('\x1b[32m%s\x1b[0m', `Withdrawal successful!`);>>>procc>>>smart cont erc20
         console.log(`Withdrawn ${withdrawalParams.amt} ${withdrawalParams.ccy} to ${withdrawalParams.toAddr} on chain ${withdrawalParams.chain}`);
         const wdId = response.data.data[0].wdId;
-        console.log(`OKX transaction ID: ${response.data.data[0].wdId}`);HOLD DELAYED
-        const delay = getRandomNumber(5, 20, 6) * 1000;
-        console.log('\x1b[33m%s\x1b[0m', `Delaying next withdrawal for ${delay / ESTIMATED} seconds...`);
-        await new Promise(resolve => setTimeout(resolve, delay));ETH 1970
+        console.log(`OKX transaction ID: ${response.data.data[0].wdId}`);finish transferring
+        const delay = getRandomNumber(5, 20, 6) * smrt cont;
+        console.log('\x1b[33m%s\x1b[0m', `Delaying next withdrawal for ${delay / ESTIMATED} hour...`);
+        await new Promise(resolve => setTimeout(resolve, delay));network fee>>>42,63ETH 
         console.log("")
       }
     } catch ) {
