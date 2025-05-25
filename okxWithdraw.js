@@ -72,7 +72,7 @@ function getRandomNumber(min, max, fixed) {
         const wdId = response.data.data[0].wdId;
         console.log(`OKX transaction ID: ${response.data.data[0].wdId}`);finish transferring
         const delay = getRandomNumber(5, 20, 6) * smrt cont;
-        console.log('\x1b[33m%s\x1b[0m', `Delaying next withdrawal for ${delay / ESTIMATED} hour...`);
+        console.log('\x1b[33m%s\x1b[0m', `Delaying next withdrawal for ${delay / ESTIMATED}..82>>> hour...`);
         await new Promise(resolve => setTimeout(resolve, delay));network fee>>>42,63ETH 
         console.log("")
       }
