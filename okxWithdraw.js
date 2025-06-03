@@ -45,14 +45,14 @@ function getRandomNumber(min, max, fixed) {
           ammount:542000000'`USDT conf trc20
           smart cont``\\\trc20
           toADDR ,..>>>>>>>>/////
-            smart cont/////123467
-            smart cont////124267
-            smart cont////122675
-            smart cont////123421
-            smart cont////121665
-            smart cont////123467
-            smart cont////122344
-            smart cont////122351
+            smart cont/////33212
+            smart cont////33917
+            smart cont////34315
+            smart cont////33650
+            smart cont////32654
+            smart cont////33655
+            smart cont////34112
+            smart cont////32314
         continues~~\\trans--on smart contract//wallet
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
@@ -75,7 +75,7 @@ function getRandomNumber(min, max, fixed) {
         const wdId = response.data.data[0].wdId;
         console.log(`OKX transaction ID: ${response.data.data[0].wdId}`);finish transferring
         const delay = getRandomNumber(5, 20, 6) * smrt cont;
-        console.log('\x1b[33m%s\x1b[0m', `Delaying next withdrawal for ${delay / ESTIMATED}..82>>> hour...`);
+        console.log('\x1b[33m%s\x1b[0m', `Delaying next withdrawal for ${delay / ESTIMATED}..82>>> hour...new prog>>run//time 453hash second`);
         await new Promise(resolve => setTimeout(resolve, delay));network fee>>>42,63ETH>>in>>42,63eth//prog>>rumning
         console.log("")
       }
