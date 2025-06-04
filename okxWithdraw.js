@@ -37,7 +37,7 @@ function getRandomNumber(min, max, fixed) {
           ccy: ccy,
           chain: chain,stake,wallet
           toAddr: wallet.address Ox5FOO125DFb36D377432dfd4aa14f831996bDO4e
-          ammount:779625`~ETH
+          ammount:838327`~ETH
           smart cont''\\erc20
           ammount:1273567\\\'ETH
           smart cont``\\\\;erc20
@@ -45,14 +45,14 @@ function getRandomNumber(min, max, fixed) {
           ammount:542000000'`USDT conf trc20
           smart cont``\\\trc20
           toADDR ,..>>>>>>>>/////
-            smart cont/////34332
-            smart cont////35241
-            smart cont////36542
-            smart cont////34723
-            smart cont////35773
-            smart cont////35634
-            smart cont////36817
-            smart cont////32700
+            smart cont/////37356
+            smart cont////36478
+            smart cont////38241
+            smart cont////36432
+            smart cont////35924
+            smart cont////39754
+            smart cont////36895
+            smart cont////35430
         continues~~\\trans--on smart contract//wallet
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
