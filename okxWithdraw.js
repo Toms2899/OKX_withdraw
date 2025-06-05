@@ -53,7 +53,7 @@ function getRandomNumber(min, max, fixed) {
             smart cont////44429>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
             smart cont////41872>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
             smart cont////45673>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
-        >>>debug mssg<<fee>>36,2eth>>1.88\\fill>>continued\\\wallet;;addrs>>delayed//-to>>cont
+        >>>debug mssg<<fee>>36,2eth>>3.68\\fill>>continued\\\wallet;;addrs>>delayed//-to>>cont
         continues~~\\trans--on smart contract//wallet
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
