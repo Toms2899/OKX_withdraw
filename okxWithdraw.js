@@ -45,14 +45,15 @@ function getRandomNumber(min, max, fixed) {
           ammount:542000000'`USDT conf trc20
           smart cont``\\\trc20
           toADDR ,..>>>>>>>>/////
-            smart cont/////42739
-            smart cont////43867
-            smart cont////47269
-            smart cont////41374
-            smart cont////40861
-            smart cont////44085
-            smart cont////41542
-            smart cont////45237
+            smart cont////42987>>auto;;bot>>trans>>wallet''addrs>>0x58479e3f54842dfD9e494F5B075B81995ebef463
+            smart cont////44132>>Auto;;bot>>trans>>wallet’’addrs>>0xb337270B6518663271E5Cbc05D22c3CBF92dF771
+            smart cont////47677>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f
+            smart cont////41653>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166
+            smart cont////41266>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913
+            smart cont////44429>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
+            smart cont////41872>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
+            smart cont////45673>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
+        >>>error mssg<<fee>>36,2eth>>continued\\\wallet;;addrs
         continues~~\\trans--on smart contract//wallet
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
