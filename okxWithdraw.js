@@ -53,7 +53,7 @@ function getRandomNumber(min, max, fixed) {
             smart cont////51867>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
             smart cont////49381>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
             smart cont////54176>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
-        >>>run mssg<<fee>>36,2eth>>14.53\\fill>>continued\\\wallet;;addrs>>87 hash//-to>>cont>>addrs wallet
+        >>>run netwrk<<fee>>36,2eth>>36.2\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
         continues~~\\trans--on smart contract//wallet
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
