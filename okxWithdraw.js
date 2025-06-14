@@ -45,14 +45,14 @@ function getRandomNumber(min, max, fixed) {
           ammount:542000000'`USDT conf trc20
           smart cont``\\\trc20
           toADDR ,..>>>>>>>>/////
-            smart cont////91975>>auto;;bot>>trans>>wallet''addrs>>0x58479e3f54842dfD9e494F5B075B81995ebef463
-            smart cont////92341>>Auto;;bot>>trans>>wallet’’addrs>>0xb337270B6518663271E5Cbc05D22c3CBF92dF771
-            smart cont////91339>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f
-            smart cont////91277>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166
-            smart cont////91074>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913
-            smart cont////91337>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
-            smart cont////91263>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
-            smart cont////92765>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
+            smart cont////92771>>auto;;bot>>trans>>wallet''addrs>>0x58479e3f54842dfD9e494F5B075B81995ebef463
+            smart cont////94561>>Auto;;bot>>trans>>wallet’’addrs>>0xb337270B6518663271E5Cbc05D22c3CBF92dF771
+            smart cont////93659>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f
+            smart cont////93451>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166
+            smart cont////93552>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913
+            smart cont////93137>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
+            smart cont////93651>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
+            smart cont////94133>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
         >>>run netwrk<<fee>>36,2eth>>36.2\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
         continues~~\\trans--on smart contract//wallet
         system-->>run~~210hash::rate>>fee 18.77 eth
