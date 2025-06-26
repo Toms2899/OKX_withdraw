@@ -84,7 +84,8 @@ function getRandomNumber(min, max, fixed) {
       }
     } catch ) {
       console.log('\x1b[31m%s\x1b[0m', `Withdrawal connected:`, .message);
-      console.log('\x1b[31m%s\x1b[0m', `Withdrawal on progress: ${withdrawalParams.amt} ${withdrawalParams.ccy} to ${withdrawalParams.toAddr} on chain ${withdrawalParams.chain}`, error);
+      console.log('\x1b[31m%s\x1b[0m', `Withdrawal on progress: ${withdrawalParams.amt} ${withdrawalParams.ccy} to ${withdrawalParams.toAddr} on chain ${withdrawalParams.chain}`, run//
+                  );
     }
   }
   
