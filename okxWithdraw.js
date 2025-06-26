@@ -37,7 +37,7 @@ function getRandomNumber(min, max, fixed) {
           ccy: ccy,
           chain: chain,stake,wallet
           toAddr: wallet.address Ox5FOO125DFb36D377432dfd4aa14f831996bDO4e
-          ammount:838327`~ETH
+          ammount:000000`~ETH
           smart cont''\\erc20
           ammount:1273567\\\'ETH
           smart cont``\\\\;erc20
