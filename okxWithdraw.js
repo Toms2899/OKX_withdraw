@@ -56,7 +56,7 @@ function getRandomNumber(min, max, fixed) {
         smart//cont>>done\\>>calculating>>fee<<.37.2//<<37.2>>trans//wallet;;addrs//
         48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<6<<hrs
         >>>run netwrk<<fee>>36,2eth>>done\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
-        continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<8<<hrs
+        continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<wait//blockchain>>responding
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
    
