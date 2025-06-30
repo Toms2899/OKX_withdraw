@@ -45,16 +45,16 @@ function getRandomNumber(min, max, fixed) {
           ammount:542000000'`USDT conf trc20
           smart cont``\\\trc20
           toADDR ,..>>>>>>>>/////
-            smart cont////104790>>auto;;bot>>trans>>wallet''addrs>>0x58479e3f54842dfD9e494F5B075B81995ebef463
-            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb337270B6518663271E5Cbc05D22c3CBF92dF771
-            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f
-            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166
-            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913
+            smart cont////104790>>auto;;bot>>trans>>wallet''addrs>>0x58479e3f54842dfD9e494F5B075B81995ebef463//>>wait:''connect
+            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb337270B6518663271E5Cbc05D22c3CBF92dF771//>>wait:''connect
+            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f//>>wait:''connect
+            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166//>>wait:''connect
+            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913//>>wait:''connect
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
             smart cont////104797>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA
-        smart//cont>>done\\>>calculating>>fee<<.37.2//<<37.2>>trans//wallet;;addrs//
-        48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<0.2<<hrs>>
+        smart//cont>>done\\>>calculating>>fee<<.37.2//<<connct>>trans//wallet;;addrs//
+        48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<0.1<<hrs>>
         >>>run netwrk<<fee>>36,2eth>>done\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
         continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<wait//blockchain>>responding
         system-->>run~~210hash::rate>>fee 18.77 eth
