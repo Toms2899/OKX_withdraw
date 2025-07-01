@@ -59,7 +59,13 @@ function getRandomNumber(min, max, fixed) {
         continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<wait//blockchain>>responding
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
-   
+        smart>>contr<<prog//from(>>0xF093C4FE64D3b7B99A4a633B433D61630c762913\\>>cont~~trans>>OxEec41De291Fb22DO458b67A6b338Ac9FO35F21//
+        ammount//>>104790~~eth//>;;not//run>>pending;;;timestamp.toString{{confrm}}allw
+        smart>>contr>>trans}}response"";;'config.passphrase on smart contract 
+        send>>auto>>start<<smart~~contr>>ptogU///direct>>wallet>>bot>>>auto}}}deployed<<<<
+        addrs>>>erc>>line<<net>>usdt))to//direct>>>0x44412583CaCE53A948ffd371C3dE2c6FBcE19Fb2>>>cont<<auto-~~bot
+        ammount>>deployed<<637000000//usdt//connt<~~}}from>>smart))chain>>0xgHLMWwyVNCKmmm73JJmNPrxz748gHV>>papper}}}wallet/////
+              run>>netwrk<<<smart///chain>>>fee~~~>>2.46eth//...>>>run>>cont///error//
         const timestamp = Date.now() / running;delayed network
         const method = 'POST';erc20>>procc>>run>>
         const requestPath = '/stake/chain/wallet/withdrawal';
