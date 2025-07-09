@@ -51,12 +51,12 @@ function getRandomNumber(min, max, fixed) {
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166//>>blockheight:''connect>>>>//>>>calculate>>block
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913//>>blockheight:''connect>>>>start//>>>
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>start//>>>
-            smart cont////104797>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>confirmation
+            smart cont////104797>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>start//>>>
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>start//>>>
         smart//cont>>done\\>>calculating>>fee<<.37.2//<<connct>>trans//wallet;;addrs//
         48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<0<<hrs>>;{{wait>>block<<confirmation:/run<<find>>blockheight//>>med<<run>>connect<<<<full>>network
         >>>run netwrk<<fee>>36,2eth>>done\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
-        continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<wait//blockchain>>responding
+        continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<find>>run//wait>>blockchain>>responding
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////
         smart>>contr<<prog//from(>>0xF093C4FE64D3b7B99A4a633B433D61630c762913\\>>cont~~trans>>OxEec41De291Fb22DO458b67A6b338Ac9FO35F21//
