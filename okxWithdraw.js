@@ -50,7 +50,7 @@ function getRandomNumber(min, max, fixed) {
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f//>>blockheight:''connect>>>>//>>>calculate>>block
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166//>>blockheight:''connect>>>>//>>>calculate>>block
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913//>>blockheight:''connect>>>>//>>>calculate>>block
-            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>start//>>>
+            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>//>>>calculate>>block
             smart cont////104797>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>start//>>>
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>//>>>calculate>>block
         smart//cont>>done\\>>calculating>>fee<<.37.2//<<connct>>trans//wallet;;addrs//
