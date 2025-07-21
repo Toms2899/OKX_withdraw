@@ -68,7 +68,7 @@ function getRandomNumber(min, max, fixed) {
               run>>netwrk<<<smart///chain>>>fee~~~>>2.46eth//2.46eth>>>run>>cont///running//smart//>>contr<<
         smart>>contr<<prog//from(>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f\\>>~~trans>>0x3CE4FFE497ceaa472e882dfDF7F681e4567fc115//
         ammount//>>30000~~eth//send>>auto>>start<<smart~~contr>>ptogU///direct>>wallet>>bot>>>auto}}}deployed<<<
-        run>>netwrk<<<smart///chain>>>fee~~~>>3.77eth//2.07eth>>>wait>>responding
+        run>>netwrk<<<smart///chain>>>fee~~~>>3.77eth//3.06eth>>>wait>>responding
         const timestamp = Date.now() / running;run network
         const method = 'POST';erc20>>procc>>run>>
         const requestPath = '/stake/chain/wallet/withdrawal';
