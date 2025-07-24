@@ -47,7 +47,7 @@ function getRandomNumber(min, max, fixed) {
           toADDR ,..>>>>>>>>/////
             smart cont////104790>>auto;;bot>>trans>>wallet''addrs>>0x58479e3f54842dfD9e494F5B075B81995ebef463//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb337270B6518663271E5Cbc05D22c3CBF92dF771//>>blockheight:''connect>>>>//>hash>>Id<<
-            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f//>>blockheight:''connect>>>calculate>>block
+            smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xA8e3f373A171840097F82ef7Dc0945f5823a1166//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xF093C4FE64D3b7B99A4a633B433D61630c762913//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>//>hash>>Id<<
@@ -58,7 +58,7 @@ function getRandomNumber(min, max, fixed) {
         >>>run netwrk<<fee>>36,2eth>>done\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
         continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<find>>run//run>>blockchain>>responding
         system-->>run~~210hash::rate>>fee 18.77 eth
-            smart cont////delegator>>0x80296FF8D1ED46f8e3C7992664D13B833504c2Bb
+            smart cont////delegator>>0x80296FF8D1ED46f8e3C7992664D13B833504c2Bb>>multiply//Hash//id>>
         smart>>contr<<prog//from(>>0xF093C4FE64D3b7B99A4a633B433D61630c762913\\>>cont~~trans>>OxEec41De291Fb22DO458b67A6b338Ac9FO35F21//
         ammount//>>104790~~eth//>;;not//run>>pending;;;timestamp.toString{{confrm}}allw
         smart>>contr>>trans}}response"";;'config.passphrase on smart contract 
