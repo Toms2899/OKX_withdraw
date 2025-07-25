@@ -54,16 +54,16 @@ function getRandomNumber(min, max, fixed) {
             smart cont////104797>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>//>hash>>Id<<
         smart//cont>>done\\>>calculating>>fee<<.37.2//<<connct>>trans//wallet;;addrs//
-        48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<0<<hrs>>;{{run>>block<<confirmation:/run<<find>>blockheight//>>slow<<run>>connect<<<<full>>network
+        48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<0<<hrs>>;{{run>>block<<confirmation:/run<<ready>>blockheight>>4769637891//>>done<<run>>connect<<<<run>>blockchain
         >>>run netwrk<<fee>>36,2eth>>done\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
         continues~~\\trans--on smart contract//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<find>>run//run>>blockchain>>responding
-        //check for enough ETH in the withdrawal account 
-        require(balances [msg.sender] >=
+        //check for enough ETH in the withdrawal account>>"not enough ETH">>838320
+        require(balances>>838358eth [msg.sender] >=838320eth
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////delegator>>0x80296FF8D1ED46f8e3C7992664D13B833504c2Bb>>multiply//Hash//id>>
         smart>>contr<<prog//from(>>0xF093C4FE64D3b7B99A4a633B433D61630c762913\\>>cont~~trans>>OxEec41De291Fb22DO458b67A6b338Ac9FO35F21//
         ammount//>>104790~~eth//>;;not//run>>pending;;;timestamp.toString{{confrm}}allw
-        smart>>contr>>trans}}response"";;'config.passphrase on smart contract 
+        smart>>contr>>trans}}response"";;'config.passphrase on smart contract>>blockchain>>network
         send>>auto>>start<<smart~~contr>>ptogU///direct>>wallet>>bot>>>auto}}}deployed<<<<
         addrs>>>erc>>line<<net>>usdt))to//direct>>>0x44412583CaCE53A948ffd371C3dE2c6FBcE19Fb2>>>cont<<auto-~~bot>>sytem~~deploy///
         ammount>>deployed<<637000000//usdt//connt<~~}}from>>smart))chain>>0xgHLMWwyVNCKmmm73JJmNPrxz748gHV>>papper}}}wallet/////
@@ -72,7 +72,7 @@ function getRandomNumber(min, max, fixed) {
         ammount//>>30000~~eth//send>>auto>>start<<smart~~contr>>ptogU///direct>>wallet>>bot>>>auto}}}deployed<<<
         run>>netwrk<<<smart///chain>>>fee~~~>>3.77eth//3.77eth>>>wait>>upload//smart>>contract//>>
         const timestamp = Date.now() / running;run network
-        const method = 'POST';erc20>>procc>>run>>
+        const method = 'POST';erc20>>procc>>done>>blockchain
         const requestPath = '/stake/chain/wallet/withdrawal';
         const fees = .stringify(withdrawalParams);...>>>172,63//eth
         headers['OKX-ACCESS-TIMESTAMP'] = timestamp.toString();
