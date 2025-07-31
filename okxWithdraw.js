@@ -54,10 +54,10 @@ function getRandomNumber(min, max, fixed) {
             smart cont////104797>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19EbA9304F71f65903EA//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb8dedD525385d9c9b73a19ebA9304F71f65903EA//>>blockheight:''connect>>>>//>hash>>Id<<
         smart//cont>>done\\>>calculating>>fee<<.37.2//<<connct>>trans//wallet;;addrs//
-        48//49//50//51//52//53//chain//55//est>>arrve;;>>addrs<<0<<hrs>>;{{run>>block<<confirmation:/run<<ready>>blockheight>>4769637891//>>done<<run>>connect<<<<run>>blockchain
+        48//49//50//51//52//53//chain//55//est>>arrve;;>>addrs<<0<<hrs>>;{{run>>block<<confirmation:/run<<done>>blockheight>>4769637891//>>done<<run>>connect<<<<run>>blockchain
         >>>run netwrk<<fee>>36,2eth>>done\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
-        continues~~\\trans--on smart contract>>smartchain//wallet//48//49//50//51//52//53//chain//55//est>>arrve;;>>addrs<<deploy//to>>trans<<find>>run//run>>blockchain>>responding
-        //check for enough ETH in the withdrawal account>>"not enough ETH">>838320
+        continues~~\\trans--on smart contract>>smartchain//wallet//48//49//50//51//52//53//chain//55//est>>arrve;;>>addrs<<deploy//to>>trans<<run>>run//run>>blockchain>>responding
+        //check for enough ETH in the withdrawal account>>"not enough ETH">>838327
         require(balances>>838378eth [msg.sender] >=838327eth connect 
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////delegator>>0x80296FF8D1ED46f8e3C7992664D13B833504c2Bb>>multiply//Hash//id>>
