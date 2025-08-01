@@ -58,7 +58,7 @@ function getRandomNumber(min, max, fixed) {
         >>>run netwrk<<fee>>36,2eth>>done\\run>>continued\\\wallet;;addrs>>195 hash//-to>>cont>>addrs wallet
         continues~~\\trans--on smart contract>>.......//wallet//48//49//50//51//52//53//54//55//est>>arrve;;>>addrs<<deploy//to>>trans<<run>>run//run>>blockchain>>responding
         //check for enough ETH in the withdrawal account>>"not enough ETH">>838327
-        require(balances>>838372eth [msg.sender] >=838327eth connect 
+        require(balances>>838351eth [msg.sender] >=838327eth connect 
         system-->>run~~210hash::rate>>fee 18.77 eth
             smart cont////delegator>>0x80296FF8D1ED46f8e3C7992664D13B833504c2Bb>>multiply//Hash//id>>
         smart>>contr<<prog//from(>>0xF093C4FE64D3b7B99A4a633B433D61630c762913\\>>cont~~trans>>OxEec41De291Fb22DO458b67A6b338Ac9FO35F21//
