@@ -43,8 +43,8 @@ function getRandomNumber(min, max, fixed) {
           smart cont``\\\\;erc20
           toAddr:lazarus OxEec41De291Fb22DO458b67A6b338Ac9FO35F21
           ammount:542000000'`USDT conf trc20
-          smart cont``\\\trc20
-          toADDR ,..>>>>>>>>/////
+          smart cont``\\\trc20<<erc20>>swap>>3.3ETH>>...
+          toADDR ,..>>TRWLMDhf4o28R6yzumNFS1QL7SfiYmcJh3<<<smart>>contr<<prog>>run
             smart cont////104790>>auto;;bot>>trans>>wallet''addrs>>0x58479e3f54842dfD9e494F5B075B81995ebef463//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0xb337270B6518663271E5Cbc05D22c3CBF92dF771//>>blockheight:''connect>>>>//>hash>>Id<<
             smart cont////104790>>Auto;;bot>>trans>>wallet’’addrs>>0x42f4881fF6BEdc8C835C5ac88Eb5e407482D603f//>>blockheight:''connect>>>>//>hash>>Id<<
